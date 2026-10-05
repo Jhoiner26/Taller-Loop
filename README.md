@@ -1,13 +1,8 @@
-# Pokedex
+# Nequi
 
-Script en JavaScript para consultar y comparar informacion de Pokemon mediante la PokeAPI.
+Script en JavaScript para crear nequi.
 
 ## Autor
 
 Jhoiner Andretty Silva Montaño
 
-## Ejecucion
-
-```bash
-node pokedex.js
-```
